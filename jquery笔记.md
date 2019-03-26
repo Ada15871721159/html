@@ -1,5 +1,4 @@
 ---
-title: jquery笔记
 1.jquery对象与DOM对象互转
 
 ``` 
