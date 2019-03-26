@@ -10,8 +10,8 @@ $("btnObj")
 2.三种页面加载事件
 
 ``` javascript
->$("window").load(function( ){ });
->$("document").ready(function( ){ } );
->$(function( ){ } );
+$("window").load(function( ){ });
+$("document").ready(function( ){ } );
+$(function( ){ } );
 ```
 
