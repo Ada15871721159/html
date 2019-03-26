@@ -7,3 +7,9 @@ jquery对象
 $("btnObj")
 转DOM对象 $("btnObj")[0]
 ```
+2.三种页面加载事件
+
+>$("window").load(function( ){ });
+>$("document").ready(function( ){ } );
+>$(function( ){ } );
+
